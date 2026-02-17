@@ -1,19 +1,19 @@
-[build-system]
+﻿[build-system]
 requires = ["setuptools>=68", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
 name = "nubra_talib"
-version = "0.1.0"
+version = "0.1.1"
 description = "Nubra historical data to pandas with TA-Lib indicators"
 readme = "README.md"
 requires-python = ">=3.9"
 license = { text = "MIT" }
-authors = [{ name = "Your Name" }]
+authors = [{ name = "Akshay N" }]
 dependencies = [
   "pandas>=2.0",
   "TA-Lib>=0.4.28",
 ]
 
 [project.urls]
-Homepage = "https://example.com"
+Homepage = "https://github.com/akshayn-spec/nubra-talib"
