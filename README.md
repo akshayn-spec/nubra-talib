@@ -5,7 +5,7 @@ TA-Lib helper functions built on Nubra historical data.
 ## Install
 
 ```
-pip install nubra_talib
+pip install -i https://test.pypi.org/simple/ nubra-talib
 ```
 
 ## Usage
